@@ -1,6 +1,0 @@
-Archive: jammy
-Component: main
-Origin: ROS
-Label: ROS jammy
-Architecture: amd64
-Description: ROS jammy Debian Repository
